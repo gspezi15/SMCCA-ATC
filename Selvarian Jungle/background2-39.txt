@@ -1,0 +1,13 @@
+[caveback]
+img="background2-39.png"
+depth=350
+alignY=BOTTOM
+repeatX=true
+repeatY=true
+
+[brambles]
+img="brambles.png"
+depth=150
+alignY=BOTTOM
+repeatX=true
+repeatY=true

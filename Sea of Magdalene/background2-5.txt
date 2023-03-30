@@ -1,0 +1,12 @@
+[islands]
+img="islandhills.png"
+depth=250
+repeatX=true
+alignY=BOTTOM
+
+[sky]
+img="sky.png"
+depth=800
+repeatX=true
+alignY=BOTTOM
+speedX=-0.2

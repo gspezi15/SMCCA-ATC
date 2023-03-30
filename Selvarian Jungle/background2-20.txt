@@ -1,0 +1,40 @@
+[bg]
+img="background.png"
+priority=-100
+repeatX=true
+repeatY=false
+fitY = true
+parallaxX=0.15
+parallaxY=0.05
+alignY=BOTTOM
+
+[mg2]
+img="midground2.png"
+priority=-99
+repeatX=true
+repeatY=false
+fitY = true
+parallaxX=0.2
+parallaxY=0.1
+alignY=BOTTOM
+
+[mg]
+img="midground.png"
+priority=-98
+repeatX=true
+repeatY=false
+fitY = true
+parallaxX=0.25
+parallaxY=0.15
+alignY=BOTTOM
+
+[fg]
+img="foreground.png"
+priority=-97
+repeatX=true
+repeatY=false
+fitY = true
+parallaxX=0.3
+parallaxY=0.2
+alignY=BOTTOM
+

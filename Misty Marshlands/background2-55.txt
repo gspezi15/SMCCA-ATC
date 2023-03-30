@@ -1,0 +1,14 @@
+[background2-55]
+img="background2-55.png"
+depth=200
+repeatX=true
+alignY=BOTTOM
+frames=4
+
+[timbers]
+img="ghost_front.png"
+depth=100
+repeatX=true
+repeatY=true
+alignY=BOTTOM
+

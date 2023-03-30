@@ -1,0 +1,13 @@
+[coral]
+img="background2-30.png"
+depth=INFINITE
+frames=4
+alignY=BOTTOM
+repeatX=true
+
+[reef]
+img="midground.png"
+depth=150
+alignY=BOTTOM
+repeatX=true
+repeatY=true

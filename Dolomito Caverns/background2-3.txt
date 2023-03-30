@@ -1,0 +1,13 @@
+[backstalactites]
+img="backstalactites.png"
+depth=200
+repeatX=true
+repeatY=true
+alignY=BOTTOM
+
+[forestalactites]
+img="forestalactites.png"
+depth=100
+repeatX=true
+repeatY=true
+alignY=BOTTOM

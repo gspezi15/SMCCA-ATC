@@ -1,0 +1,12 @@
+[islands]
+img="islandhillsnight.png"
+depth=250
+repeatX=true
+alignY=BOTTOM
+
+[sky]
+img="nightsky.png"
+depth=INFINITE
+repeatX=true
+alignY=BOTTOM
+frames=4
